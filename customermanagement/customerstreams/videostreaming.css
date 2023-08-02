@@ -1,0 +1,11 @@
+.col-6.popupforstrem {
+    background-color: white;
+    border-radius: 25px;
+}
+  .icons-react{
+        position: fixed;
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+        margin-top:50px;
+  }

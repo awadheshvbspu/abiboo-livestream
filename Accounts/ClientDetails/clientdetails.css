@@ -1,0 +1,127 @@
+button {
+    width: 150px;
+    height: 50px;
+}
+
+
+button.cancelbutton {
+    width: 131px;
+    height: 45px;
+    border-radius: 23px;
+}
+
+button.savebutton {
+    width: 131px;
+    height: 45px;
+    border-radius: 23px;
+}
+
+
+.row.ClientAccount {
+    width: 533px;
+}
+
+button:hover {
+    background-color: #c2aa97;
+}
+
+.create.pt-3 {
+    border-bottom: 2px solid lightgray;
+    padding-left: 3rem;
+}
+
+.ClientAccount {
+    width: 40rem;
+    height: 470px;
+    left: 522px;
+    top: 285px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 36px 36px rgba(0, 0, 0, 0.36);
+    border-radius: 24px;
+}
+
+input.name {
+    background-color: black !important;
+    color: white !important;
+
+}
+.container.ClientAccount {
+    position: absolute;
+    font-family: Open Sans;
+    margin-top: -120px;
+    max-height: 100%;
+}
+
+.col-5.cancel {
+    display: flex;
+    justify-content: center;
+}
+
+.row.userPass {
+    padding: 0px 0px 0px 60px;
+}
+
+input {
+    border-radius: 25px;
+}
+
+input.name {
+    width: 100%;
+    border-radius: 15px;
+    border: none;
+
+
+}
+
+.col-md-5.cancel {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.col-md-5.save {
+    margin-left: 30px;
+}
+
+input.user.form-control {
+    border: none;
+    border-radius: 15px;
+    background-color: black !important;
+    color: white;
+    width: 80%;
+}
+
+input.emailId.form-control {
+    border: none;
+    border-radius: 15px;
+    background-color: black !important;
+    color: white;
+    width: 80%;
+}
+
+.email-name {
+    margin-top: -1.5rem;
+    margin-left: 50px;
+}
+
+input.Com_email {
+    width: 92%;
+    height: 38px;
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+
+}
+
+.ClientAccount {
+    width: 40rem !important;
+}
+
+input.name.mt-2 {
+    background-color: black !important;
+    color: white;
+}
+
+.row.h-100.w-100 {
+    margin-left: 0px;
+}

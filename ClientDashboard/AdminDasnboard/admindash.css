@@ -1,0 +1,23 @@
+.ApiButton{
+    background-color: #614635;
+    border-radius: 10px;
+    color: white;
+    width: 180px;
+    height:65%
+}
+.ApiKey.mt-4 {
+    padding-right: 5%;
+}
+col-md-6.agent.bg-white {
+    width: 475px;
+    border-radius: 25px;
+    height: 11.5rem;
+}
+col-md-6.agent.bg-white:hover {
+    height: 11.5rem;
+    background-color: #614635 !important;
+    color: #F1F0EF;
+}
+h3.Client_dash {
+    font-weight: bold;
+}

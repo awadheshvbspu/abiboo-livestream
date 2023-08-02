@@ -1,0 +1,37 @@
+.container.mt-5.Allow-stream {
+    display: flex;
+    justify-content: center;
+}
+
+button.deny_stream {
+    border-radius: 25px;
+    margin-right: 45px;
+}
+
+button.allow_stream {
+    background-color: #A58B73;
+    height: 48px;
+    width: 168px;
+    left: 972px;
+    top: 497px;
+    border-radius: 24px;
+
+}
+
+button.stream_buttons {
+    margin-left: 32px;
+    background-color: #F1F0EF;
+    height: 48px;
+    width: 168px;
+    left: 780px;
+    top: 497px;
+    border-radius: 24px;
+
+
+}
+.stream_request {
+    border-bottom: 2px solid lightgray;
+}
+.stream_buttons {
+    margin-left: 20px;
+}

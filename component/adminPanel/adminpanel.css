@@ -1,0 +1,178 @@
+.head {
+    font-family: Open Sans;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0em;
+    text-align: left;
+    border-bottom: 1px solid black;
+    width: 100%;
+
+}
+
+.container,
+.container-fluid,
+.container-lg,
+.container-md,
+.container-sm,
+.container-xl,
+.container-xxl {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    width: 100%;
+    padding: right 0;
+    padding-left: 0;
+    margin-right: 0;
+    margin-left: 0;
+}
+h3.admin {
+    font-weight: bold;
+}
+
+.createclient {
+    display: flex;
+    justify-content: end;
+}
+
+.backGround {
+    background-color: #d1c3b4;
+    border-radius: 20px;
+    background-size: cover;
+    max-height: 100%;
+   
+}
+
+.col-md-4.client.bg-white {
+    border-radius: 25px;
+    width: 317px;
+    height: 170px;
+    
+}
+
+p.fw-bold {
+    font-size: 18px;
+}
+
+.clients {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 20px;
+}
+
+.clientInfo {
+    padding: 18px 27px;
+}
+
+.Totalclient {
+    display: flex;
+    justify-content: space-between;
+    padding: 6px 15px;
+}
+.col-md-6.col-sm-12.mb-3.mb-md-0.agent.bg-white {
+    height: 11.5rem;
+}
+button.clientbutton {
+    height: 39px;
+    width: 90px;
+    border-radius: 24px;
+    background-color: #282624;
+    color: white;
+}
+button.clientbutton:hover{
+    background-color:#F1F0EF ;
+    color: black;
+}
+
+.row.backGround {
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.col-md-6.agent.bg-white {
+    width: 475px;
+    border-radius: 25px;
+    height: 11.5rem;
+    
+}
+
+.col-md-6.customers.bg-white {
+    width: 475px;
+    border-radius: 25px;
+    height: 11.5rem;
+}
+
+.activeclients {
+    display: flex;
+    justify-content: space-between;
+    padding: 26px 35px;
+}
+
+.Totalagents {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 24px;
+}
+
+.customerclients {
+    display: flex;
+    justify-content: space-between;
+    padding: 26px 38px;
+}
+
+.row.count {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+
+tr:hover {
+    background-color: #614635;
+    /* background-color: red; */
+    color: white;
+    border: 12 !important;
+    border-radius: 100px;
+}
+
+.div.col-md-4 .client .bg-white:hover{
+    background-color: #614635;
+    
+}
+.row.backGround.p-5.mt-2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.col-md-4.client.bg-white:hover{
+    background-color:#614635 !important;
+    color: #F1F0EF;
+}
+.col-md-6.agent.bg-white:hover {
+    background-color:#614635 !important;
+    color:#F1F0EF;
+}
+.col-md-6.col-sm-12.customers.bg-white:hover {
+    background-color:#614635 !important;
+    color: #F1F0EF;
+    height: 11.5rem;
+}
+.manage-account.m-5.mb-2.col-md-12.col-sm-12 {
+    border-bottom: 1px solid lightgray;
+}
+.change-password {
+    display: flex;
+}
+button.save_button {
+    border: none;
+    border-radius: 15px;
+    background-color: #A58B73;
+    color: white;
+}
+h3.setting {
+    font-weight: bold;
+}
+button.clientbutton {
+    margin-top: 15px;
+}
+svg {
+    cursor: pointer;
+}

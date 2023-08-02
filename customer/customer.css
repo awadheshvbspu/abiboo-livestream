@@ -1,0 +1,11 @@
+.col-12.offset-1 {
+    border: 21px solid #E9D1BD;
+    border-radius: 30px;
+}
+.col-12.offset-2.d-flex.justify-content-between.border-bottom {
+    margin-top: -90px;
+}
+input.w-100.form-control {
+    background-color: black !important;
+    color: white;
+}

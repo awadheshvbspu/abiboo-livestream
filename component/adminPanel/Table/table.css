@@ -1,0 +1,32 @@
+.table-content{
+    border-radius: 40px;
+    border: 20px solid #d1c3b4;
+    padding: 13px 50px;
+    background-color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table td, #customers th {
+    padding: 8px;
+  }
+  
+  table tr:nth-child {background-color: #614635;}
+  
+  /* table tr:hover {background-color: #614635;
+} */
+  
+  td:first-child,
+  th:first-child {
+    border-radius: 20px 0 0 20px;
+  }
+  td:last-child,
+  th:last-child {
+    border-radius: 0 20px 20px 0;
+  }
+  
+  tbody, td, tfoot, th, thead, tr {
+    border-style: hidden !important;
+  }
+  .table-responsive {
+    padding: 0px 20px 0px 20px;
+}

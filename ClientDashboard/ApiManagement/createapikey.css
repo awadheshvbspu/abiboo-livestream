@@ -1,0 +1,47 @@
+
+.col-md-12.api_create {
+    border-bottom: 1px solid lightgray;
+        padding: 25px 0px 0px 38px;
+    
+    }
+    .container.createapikey {
+        width: 33rem;
+    }
+    .container.createapikey {
+        position: absolute;
+        margin-top: 98px;
+        box-shadow: 20px;
+        box-shadow: rgba(0, 0, 0, 0.35) 23px 12px 16px;
+    }
+.apicreate {
+    background-color: white;
+    border-radius: 25px;
+    height: 350px;
+}
+
+input.createapi {
+    background-color: black;
+    color: white;
+    height: 39px;
+    text-indent: 20px;
+    border-radius: 15px;
+}
+.apicreate_button {
+    display:flex;
+    justify-content: center;
+}
+button.cancelapi {
+    border-radius: 25px;
+    width: 25%;
+    height: 42px;
+}
+button.setapi {
+    border-radius: 25px;
+    background-color: #A58B73;
+    color:white;
+    width: 25%;
+    height: 42px;
+}
+button.cancelapi {
+    margin-right: 25px;
+}

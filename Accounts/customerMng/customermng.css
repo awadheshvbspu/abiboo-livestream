@@ -1,0 +1,42 @@
+button {
+    width: 119px;
+    height: 49px;
+    border-radius: 24px;
+   
+}
+/* button:hover{
+    background-color: burlywood;
+} */
+.row.CustomerAccount {
+    width: 533px;
+}
+.CustomerAccount{
+    background-color: #F1F0EF;
+    border-radius: 20px;
+    width: 45%;
+    /* display: flex;
+    justify-content: center; */
+    margin-top: 63px;
+
+}
+input.Company {
+    width: 505px;
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+}
+input.User {
+    width: 505px;
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+}
+.buttonCustomer {
+    display: flex;
+    justify-content: space-evenly;
+}
+.create.pt-3 {
+    border-bottom: 2px solid black;
+    margin-bottom: 24px;
+    width:100%;
+}

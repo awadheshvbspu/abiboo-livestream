@@ -1,0 +1,22 @@
+button.SetApiButton {
+    background-color: #614635;
+    border-radius: 15px;
+    color: white;
+    height: 150%;
+}
+.agentspanel {
+    margin-top: 20px !important;
+}
+button.apidisable.me-2 {
+    width: 70px;
+    height: 30.77px;
+    left: 1203px;
+    top: 400px;
+    background: #282624;
+    border-radius: 18px;
+    color: white;
+    font-size: 13px;
+}
+h3.API_Mng {
+    font-weight: bold;
+}

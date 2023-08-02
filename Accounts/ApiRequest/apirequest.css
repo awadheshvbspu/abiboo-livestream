@@ -1,0 +1,41 @@
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+.col-md-12.api_request {
+    border-bottom: 1px solid lightgray;
+        padding: 25px 0px 0px 45px;
+    
+    }
+
+.apirequest_button {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+button {
+    width: 118px;
+    height: 40px;
+
+}
+button.discard {
+    border-radius: 24px;
+}
+button.approve {
+    background-color: #A58B73;
+    border-radius: 24px;
+}
+.apirequest {
+    position:absolute;
+}
+.apirequest {
+    width: 37%!important;
+    padding: 8px;
+    margin-top: 42px!important;
+    height: 200px;
+    border: none;
+    background-color:white;
+    border-radius: 25px;
+}

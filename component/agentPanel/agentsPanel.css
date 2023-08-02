@@ -1,0 +1,60 @@
+.Agents {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+.agentsdetails {
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 1px solid lightgray;
+    margin-top: 20px;
+}
+.agentName.pt-3 {
+    display: flex;
+    justify-content: space-around;
+}
+.agentspanel {
+    border: 21px solid #d1c3b4;
+    border-radius: 40px;
+    padding: 36px;
+    background-color: white;
+    margin: 40px;
+    font-family: open Sans;
+    text-align: center;
+}
+.rounded {
+    font-family: roboto;
+}
+button.btn-discard {
+    border-radius: 25px;
+    width: 88px;
+    width: 75px;
+    height: 29px;
+    color: rgb(13, 11, 11);
+    font-size: 12px;
+    border-radius: 20px;
+}
+button.btn-Approve {
+    border-radius: 25px;
+    width: 88px;
+    width: 75px;
+    height: 29px;
+    color: rgb(13, 11, 11);
+    font-size: 12px;
+    border-radius: 20px;
+}
+button:hover {
+    background-color: #E9D1BD;
+    color: white;
+}
+
+.apimng{
+    width: 100%;
+    font-family: var(--bs-body-font-family);
+}
+.check{
+    font-size: 17px;
+}
+h3.APi_request {
+    font-weight: bold;
+}
